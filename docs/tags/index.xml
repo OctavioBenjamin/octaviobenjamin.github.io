@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mendez Octavio</title>
-    <link>https://tudominio.github.io/tags/</link>
+    <link>https://octaviobenjamin.github.io/tags/</link>
     <description>Recent content in Tags on Mendez Octavio</description>
     <generator>Hugo</generator>
     <language>es-ar</language>
     <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tudominio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://octaviobenjamin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backups</title>
-      <link>https://tudominio.github.io/tags/backups/</link>
+      <link>https://octaviobenjamin.github.io/tags/backups/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://tudominio.github.io/tags/backups/</guid>
+      <guid>https://octaviobenjamin.github.io/tags/backups/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelab</title>
-      <link>https://tudominio.github.io/tags/homelab/</link>
+      <link>https://octaviobenjamin.github.io/tags/homelab/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://tudominio.github.io/tags/homelab/</guid>
+      <guid>https://octaviobenjamin.github.io/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://tudominio.github.io/tags/server/</link>
+      <link>https://octaviobenjamin.github.io/tags/server/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://tudominio.github.io/tags/server/</guid>
+      <guid>https://octaviobenjamin.github.io/tags/server/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu-Server</title>
-      <link>https://tudominio.github.io/tags/ubuntu-server/</link>
+      <link>https://octaviobenjamin.github.io/tags/ubuntu-server/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://tudominio.github.io/tags/ubuntu-server/</guid>
+      <guid>https://octaviobenjamin.github.io/tags/ubuntu-server/</guid>
       <description></description>
     </item>
   </channel>

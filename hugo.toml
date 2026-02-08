@@ -1,4 +1,4 @@
-baseURL = 'https://tudominio.github.io' # CAMBIAR: Tu URL final (ej: octaviobenjamin.github.io)
+baseURL = 'https://octaviobenjamin.github.io'
 languageCode = 'es-ar'
 title = 'Mendez Octavio'
 theme = "minimal-black"
@@ -18,7 +18,6 @@ theme = "minimal-black"
   brand = "Mendez Octavio Benjamin"
   description = "Mi Portfolio como SysAdmin, Infraestructura y Soporte."
 
-  # Favicon - Coloca tus archivos en la carpeta /static/
   favicon = "icons/linux-svgrepo-com.svg"
   appleTouchIcon = "apple-touch-icon.png"
 
@@ -26,7 +25,6 @@ theme = "minimal-black"
   logo = "icons/linux-svgrepo-com.svg"
 
   # Textos introductorios 
-  #projectsIntro = "Una colección de mis implementaciones, scripts y laboratorios."
 
   # Configuración PWA
   [params.manifest]
@@ -127,7 +125,6 @@ theme = "minimal-black"
     available = true
     availableLabel = "Disponible para proyectos"
 
-    # Sección "Qué estoy haciendo ahora"
     nowLabel = "System Status"
     nowIntro = ""
     now = [
