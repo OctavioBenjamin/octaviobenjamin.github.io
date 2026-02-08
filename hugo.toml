@@ -1,4 +1,4 @@
-baseURL = 'http://octaviobenjamin.github.io/'
+baseURL = 'http://octaviobenjamin.github.io/Portfolio/'
 languageCode = 'es-ar'
 title = 'Mendez Octavio'
 theme = "minimal-black"

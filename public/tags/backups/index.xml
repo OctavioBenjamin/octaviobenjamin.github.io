@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backups on Mendez Octavio</title>
+    <link>http://localhost:1313/Portfolio/tags/backups/</link>
+    <description>Recent content in Backups on Mendez Octavio</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Portfolio/tags/backups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backups en casa</title>
+      <link>http://localhost:1313/Portfolio/projects/backupencasa/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/backupencasa/</guid>
+      <description>&lt;h2 id=&#34;problematica&#34;&gt;&#xA;  &lt;a href=&#34;#problematica&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    Problematica&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Mi servidor principal &lt;a&#xA;  href=&#34;http://localhost:1313/Portfolio/projects/homelab.md&#34;&#xA;  &#xA;  class=&#34;md-link&#34;&#xA;&gt;&#xA;  Abyss&#xA;&lt;/a&gt;&#xA; corre 24/7 alojando servicios y almacenando archivos, tanto personales como de configuración y scripts de automatización.&lt;/p&gt;&#xA;&lt;p&gt;El problema no es hacer el backup, el problema es, donde lo hago si mi server no tiene un segundo disco. No tiene sentido guardar el backup en el mismo disco que los archivos importantes.&lt;/p&gt;&#xA;&lt;p&gt;Decidí mandar todo el backup a mi pc principal &lt;code&gt;knight.hollownest.lan&lt;/code&gt; pero surgio otro problema.&#xA;¿Qué pasa si no estoy en casa?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
