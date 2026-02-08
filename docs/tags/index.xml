@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mendez Octavio</title>
+    <link>https://octaviobenjamin.github.io/tags/</link>
+    <description>Recent content in Tags on Mendez Octavio</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://octaviobenjamin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://octaviobenjamin.github.io/tags/cybersecurity/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fuzzing</title>
+      <link>https://octaviobenjamin.github.io/tags/fuzzing/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/fuzzing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nmap</title>
+      <link>https://octaviobenjamin.github.io/tags/nmap/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/nmap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pentesting</title>
+      <link>https://octaviobenjamin.github.io/tags/pentesting/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/pentesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backups</title>
+      <link>https://octaviobenjamin.github.io/tags/backups/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/backups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://octaviobenjamin.github.io/tags/homelab/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>https://octaviobenjamin.github.io/tags/server/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu-Server</title>
+      <link>https://octaviobenjamin.github.io/tags/ubuntu-server/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/tags/ubuntu-server/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

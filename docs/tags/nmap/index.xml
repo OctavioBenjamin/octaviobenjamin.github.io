@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nmap on Mendez Octavio</title>
+    <link>https://octaviobenjamin.github.io/tags/nmap/</link>
+    <description>Recent content in Nmap on Mendez Octavio</description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://octaviobenjamin.github.io/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auditoría Web: Análisis de Superficie de Ataque</title>
+      <link>https://octaviobenjamin.github.io/projects/auditoriaweb/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://octaviobenjamin.github.io/projects/auditoriaweb/</guid>
+      <description>&lt;h2 id=&#34;-resumen-del-proyecto&#34;&gt;&#xA;  &lt;a href=&#34;#-resumen-del-proyecto&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    🛡️ Resumen del Proyecto&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Realice un análisis de seguridad sobre un dominio perteneciente al estado para identificar puntos débiles que comprometan datos o disponibilidad del servicio. Fue realizado con un enfoque ético y preventivo, usando técnicas de reconocimiento pasivo y validaciones manuales.&#xA;Una vez recopilada toda la información se procedió a hacer un reporte técnico y entregado a dos funcionarios públicos para poder presentarlo ante quien corresponda.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-hallazgos-principales&#34;&gt;&#xA;  &lt;a href=&#34;#-hallazgos-principales&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    🔍 Hallazgos Principales&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-exposición-de-paneles-administrativos&#34;&gt;&#xA;  &lt;a href=&#34;#1-exposici%c3%b3n-de-paneles-administrativos&#34; class=&#34;md-heading-anchor&#34;&gt;&#xA;    1. Exposición de Paneles Administrativos&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Mediante la lectura del archivo &lt;code&gt;robots.txt&lt;/code&gt; y técnicas de &lt;strong&gt;fuzzing de directorios&lt;/strong&gt;, localicé interfaces de gestión accesibles desde el internet público:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
