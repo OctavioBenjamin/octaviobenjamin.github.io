@@ -69,6 +69,10 @@ publishDir = "docs"
       icon = "devicon-archlinux-plain"
 
     [[params.home.tech]]
+      label = "UbuntuServer"
+      icon = "devicon-ubuntu-plain"
+
+    [[params.home.tech]]
       label = "Bash"
       icon = "devicon-bash-plain"
 
@@ -80,11 +84,10 @@ publishDir = "docs"
       label = "Python"
       icon = "devicon-python-plain"
 
-    [[params.home.tech]]
+    # Segunda fila (Reverse)
+    [[params.home.techReverse]]
       label = "Git"
       icon = "devicon-git-plain"
-
-    # Segunda fila (Reverse)
 
     [[params.home.techReverse]]
       label = "Vim"
@@ -119,7 +122,7 @@ publishDir = "docs"
     badge = "SysAdmin | Infraestructura" # Etiqueta pequeña sobre el título
     title = "👋Hola, soy Octavio."
     role = "Estudiante de Ingeniería en Sistemas (UTN FRC)"
-    summary = "Me especializo en administración de sistemas e infraestructura. Me apasiona aprener sobre linux y el software libre. Construyo laboratorios en casa y rompo cosas para aprender cómo arreglarlas."
+    summary = "Me especializo en administración de sistemas e infraestructura. Me apasiona aprender sobre linux y el software libre. Construyo laboratorios en casa y rompo cosas para aprender cómo arreglarlas."
     #avatar = "images/me.jpg" 
     location = "Córdoba, Argentina"
     
@@ -127,13 +130,13 @@ publishDir = "docs"
     available = true
     availableLabel = "Disponible para proyectos"
 
-    nowLabel = "System Status"
-    nowIntro = ""
-    now = [
-      "⚙️Trabajo como soporte y operador de redes.",
-      "🏡Mejorando mi Homelab.",
-      "🥷Profundizando sobre Ciberseguridad."
-    ]
+    # nowLabel = "System Status"
+    # nowIntro = ""
+    # now = [
+    #   "⚙️Trabajo como soporte y operador de redes.",
+    #   "🏡Mejorando mi Homelab.",
+    #   "🥷Profundizando sobre Ciberseguridad."
+    # ]
 
     # Botones principales
     [params.hero.primary]

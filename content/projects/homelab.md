@@ -1,19 +1,20 @@
 +++
 title = "HomeLab"
+image = "/images/abyss-server.png"
 date = "2025-02-07"
-description = "Una descripcion de mi propio servidor en casa."
+description = "Una descripcion de mi propio servidor en casa. Para impresión, archivos, adBlock local y más."
 tags = ["server", "homelab", "ubuntu-server"]
 featured = true
 +++
 
-# Problematica
-Necesitaba un entorno controlado para simular servicios reales, probar tecnologias, aprender sobre Linux para desplegar un servidor real. 
+## Problemática
+Necesitaba un entorno controlado para simular servicios reales, probar tecnologías, aprender sobre Linux para desplegar un servidor real. 
 
-# Solución
+## Solución
 Implementé un servidor central (**Abyss**) bajo ubuntu-server para orquestar servicios mediante contenedores docker.
 
-## Topologia de red.
-![Topologia de red dentro de mi hogar](/images/topologia-red.png)
+## Topología de red.
+![Topología de red dentro de mi hogar](/images/topologia-red.png)
 
 ## HomeLab.
 ![Imagen de los servicios que corre mi homelab](/images/abyss-server.png)
@@ -41,4 +42,4 @@ Por ejemplo algunos servicios que me resultan util:
 * **samba** me resulta util para mover archivos entre dispositivos y compartirlo con mis compañeros de piso.
 * **UptimeKuma** es un servicio con interfaz web que sirve para monitorear paginas, servicios o hasta los mismos dispositivos de mi red. 
 
-De esta forma cada vez que encuentro o me recomiendan un servicio lo corro en mi homelab, si me resulta util lo dejo corriendo en un puerto, configuro su direccion en nginx y pihole, lo documento y lo uso.
+De esta forma cada vez que encuentro o me recomiendan un servicio lo corro en mi homelab, si me resulta util lo dejo corriendo en un puerto, configuro su dirección en nginx y pihole, lo documento y lo uso.

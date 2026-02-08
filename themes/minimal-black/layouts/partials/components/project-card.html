@@ -1,6 +1,9 @@
 {{/* props: Page (project page) */}}
 {{- $p := .Page -}}
 
+{{/* --- NUEVO: Capturamos la imagen --- */}}
+{{- $image := $p.Params.image -}}
+
 {{- $icon := $p.Params.icon | default "fa-solid fa-folder-tree" -}}
 {{- $badge := cond ($p.Params.featured) "Featured" "" -}}
 
@@ -17,8 +20,9 @@
 {{- $websiteLabel := $p.Params.websiteLabel | default "Website" -}}
 
 <article class="card card-pad card-home card-home--project group">
-  <!-- Entire main body is clickable -->
   <a href="{{ $p.RelPermalink }}" class="card-home-body">
+
+
     <div class="card-home-header">
       <div class="card-home-icon">
         <i class="{{ $icon }}"></i>
@@ -26,7 +30,7 @@
 
       <div class="min-w-0">
         <div class="inline-flex items-center gap-1">
-          <h3 class="truncate text-sm font-semibold tracking-tight group-hover:text-accent">
+          <h3 class="truncate text-xl font-semibold tracking-tight group-hover:text-accent">
             {{ $p.Title }}
           </h3>
           {{ with $badge }}
@@ -43,7 +47,7 @@
     </div>
 
     {{ with $p.Params.description }}
-      <p class="mt-2 text-xs text-muted">
+      <p class="mt-2 text-lg text-muted">
         {{ . }}
       </p>
     {{ end }}
@@ -55,9 +59,22 @@
         {{ end }}
       </div>
     {{ end }}
+
+    {{/* --- Bloque de Imagen Uniforme --- */}}
+    {{ with $image }}
+      <div class="w-full h-64 overflow-hidden rounded-md mb-4 border border-border/50 relative">
+        <img 
+          src="{{ . | relURL }}" 
+          alt="{{ $p.Title }}" 
+          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" 
+          loading="lazy"
+        />
+      </div>
+    {{ end }}
+    {{/* --- FIN Bloque de Imagen --- */}}
+
   </a>
 
-  <!-- Footer buttons: repo, demo, website -->
   <div class="card-home-footer card-home-footer--buttons">
     <div class="flex items-center gap-2">
 
